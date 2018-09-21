@@ -75,10 +75,10 @@ Note : You can skip this steps if you have Node ,npm and angularCLI installed on
 ## Screenshots of Application
 
 ### Login Page
-![My image](shahrukhsayyed.github.com/letsmeet-frontend/screenshots/login page.jpg)
+![alt loginpage](https://github.com/ShahrukhSayyed/letsmeet-frontend/blob/master/screenshots/login%20page.jpg)
 
 ### Admin Dashboard
-![My image](shahrukhsayyed.github.com/letsmeet-frontend/screenshots/admin dashboard.jpg)
+![alt adminpage](https://github.com/ShahrukhSayyed/letsmeet-frontend/blob/master/screenshots/admin%20dashboard.jpg)
 
 
 ## More about the application
