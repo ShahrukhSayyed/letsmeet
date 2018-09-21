@@ -72,6 +72,15 @@ Note : You can skip this steps if you have Node ,npm and angularCLI installed on
 
 * [Demo](http://letsmeet.shahrukhsayyed.tech) - Application is up and running here
 
+## Screenshots of Application
+
+### Login Page
+![My image](shahrukhsayyed.github.com/letsmeet-frontend/screenshots/login page.jpg)
+
+### Admin Dashboard
+![My image](shahrukhsayyed.github.com/letsmeet-frontend/screenshots/admin dashboard.jpg)
+
+
 ## More about the application
 
 Application is having following views -
