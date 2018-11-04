@@ -155,8 +155,8 @@ code for mobile number (like 91 for India) will be automatically selected after 
 
 - All the APIs and Events are well documented using npm module apiDoc 
 
-* [APIDOC](http://letsmeet-apidoc.shahrukhsayyed.tech) - APIDOC of letsmeet backend
-* [EventDoc](http://letsmeet-api.eventdoc.shahrukhsayyed.tech) - EventDoc of letsmeet backend
+* [APIDOC](https://s3.ap-south-1.amazonaws.com/shahrukhsayyed.test-bucket/letsmeet/apidoc/index.html) - APIDOC of letsmeet backend
+* [EventDoc](https://s3.ap-south-1.amazonaws.com/shahrukhsayyed.test-bucket/letsmeet/eventdoc/Events.html) - EventDoc of letsmeet backend
 
 ## Built With
 
