@@ -7,7 +7,7 @@ let sendEmail = (sendEmailOptions) => {
 
     let account = {
         user: 'shahrukhsayyed.tech@gmail.com', //emailid
-        pass: 'Shah@gmail3987'  //password
+        pass: '####'  //password
     }
 
     let transporter = nodemailer.createTransport({
